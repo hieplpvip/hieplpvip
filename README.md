@@ -8,25 +8,25 @@ Currently I am very interested in Machine Learning and hope to create a truly in
 >
 > &mdash; <cite>Steve Jobs</cite>
 
-<a href="https://github.com/hieplpvip">
+<a href="https://github.com/hieplpvip" target="_blank">
 	<img width="32" align="left"
 		 alt="My GitHub profile"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
 </a>
 
-<a href="https://www.linkedin.com/in/hieple8102/">
+<a href="https://www.linkedin.com/in/hieple8102/" target="_blank">
 	<img width="32" align="left"
 		 alt="My LinkedIn profile"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 </a>
 
-<a href="https://twitter.com/hieplpvip">
+<a href="https://twitter.com/hieplpvip" target="_blank">
 	<img width="32" align="left"
 		 alt="My Twitter profile"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
 </a>
 
-<a href="mailto:baohiep2013@gmail.com">
+<a href="mailto:baohiep2013@gmail.com" target="_blank">
 	<img width="32" align="left"
 		 alt="My Gmail"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">
