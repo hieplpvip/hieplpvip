@@ -30,4 +30,8 @@ Currently I am very interested in Machine Learning and hope to create a truly in
 
 <br><br>
 
-![hieplpvip's github stats](https://github-readme-stats.vercel.app/api?username=hieplpvip&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+## Some stats about me
+
+<center>
+![hieplpvip's github stats](https://github-readme-stats.vercel.app/api?username=hieplpvip&bg_color=30,009ffd,7F53AC&title_color=fff&text_color=fff)
+</center>
