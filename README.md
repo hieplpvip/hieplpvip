@@ -2,7 +2,11 @@
 
 Nice to meet you. I'm Hiep, a computer science enthusiast from Vietnam.
 
-Currently I am very interested in Machine Learning and hope to create a truly intelligent AI. I also love tinkering with software and contributing to open source project.
+Currently I am very interested in Machine Learning and hope to create a truly intelligent AI. I also love tinkering with software and contributing to open source project. Hackintosh is my hobby.
+
+> You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.
+>
+> &mdash; <cite>Steve Jobs</cite>
 
 <a href="https://github.com/hieplpvip">
 	<img width="32" align="left"
@@ -30,8 +34,8 @@ Currently I am very interested in Machine Learning and hope to create a truly in
 
 <br><br>
 
-## Some stats about me
-
 <center>
+
 ![hieplpvip's github stats](https://github-readme-stats.vercel.app/api?username=hieplpvip&bg_color=30,009ffd,7F53AC&title_color=fff&text_color=fff)
+
 </center>
