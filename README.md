@@ -35,5 +35,5 @@ Currently I am very interested in Machine Learning and hope to create a truly in
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hieplpvip&bg_color=30,009ffd,7F53AC&title_color=fff&text_color=fff">
+  <img src="https://github-readme-stats.vercel.app/api?username=hieplpvip&bg_color=30,19c9fa,1977fa&title_color=fff&text_color=fff">
 </p>
