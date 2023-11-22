@@ -1,8 +1,8 @@
 # Hi there. Welcome to my Profile! 👋
 
-Nice to meet you. I'm Hiep, a computer science enthusiast from Vietnam.
+Nice to meet you. I'm Hiep, a senior undergraduate student majoring in Computer Science from Vietnam.
 
-Currently, I am interested in Machine Learning and hope to achieve artificial general intelligence someday. I also love tinkering with software and contributing to open-source projects. Hackintosh is my hobby.
+Currently, I am interested in Machine Learning. I also love tinkering with software and contributing to open-source projects. Competitive programming is my hobby.
 
 > You can't connect the dots looking forward; you can only connect them looking backward. So you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.
 >
